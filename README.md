@@ -12,6 +12,5 @@ A library that is use for show message and alert in dialogue.
 	        implementation 'com.github.iamhassanali:CustomDialouge:Tag'
 	}
 
-![ScreenShoot](https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png?raw=true) 
-<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" width="48">
+<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" width="200">
 ![ScreenShoot](https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png?raw=true)Screenshot_20201023-160652.png
