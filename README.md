@@ -2,8 +2,8 @@
 A library that is use for show message and alert in dialogue.
 
 
-<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" alt="sample" title="sample" width="300" height="480" align="left">
-<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png" alt="sample" title="sample" width="300" height="480" align="right" " > 
+<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png"  height="580" width="260" hspace="20">
+<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png"  height="580" width="260" hspace="20" > 
 
 
        allprojects {              
