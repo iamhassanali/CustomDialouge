@@ -1,20 +1,13 @@
 # CustomDialouge
 A library that is use for show message and alert in dialogue.
 
-
-allprojects
-{
-repositories {
-		
+       allprojects {              
+	      repositories {
 			...
 			maven { url 'https://jitpack.io' }
-			
 		}
-		
-}
-
-  dependencies {
-  
+	}
+       dependencies {
+       
 	        implementation 'com.github.iamhassanali:CustomDialouge:Tag'
-		
 	}
