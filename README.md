@@ -15,5 +15,5 @@ A library that is use for show message and alert in dialogue.
 	}
        dependencies {
        
-	        implementation 'com.github.iamhassanali:CustomDialouge:Tag'
+	        implementation 'com.github.iamhassanali:CustomDialouge:0.1'
 	}
