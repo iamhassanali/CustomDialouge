@@ -18,3 +18,13 @@ A library that is use for show message and alert in dialogue.
 
 <img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png" width="300">
 
+<table style="width:100%">
+  <tr>
+    <th>Material Dialog</th> 
+    <th>Bottom Sheet Material Dialog</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" width="300"></td>
+    <td>img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png" width="300"></td>
+  </tr>
+</table>
