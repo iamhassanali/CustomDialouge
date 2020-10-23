@@ -1,12 +1,9 @@
 # CustomDialouge
 A library that is use for show message and alert in dialogue.
 
-<table style="width:50%">
-  <tr>
-    <td align="center"><img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" /></td>
-    <td align="center"><img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png" /></td>
-  </tr>
-</table>
+
+<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160635.png" alt="sample" title="sample" width="300" height="480" align="left" vspace="24" >
+<img src="https://github.com/iamhassanali/CustomDialouge/blob/master/DialougeLibrary/ScreenShoot/Screenshot_20201023-160652.png" alt="sample" title="sample" width="300" height="480" align="right" vspace="24" > 
 
 
        allprojects {              
